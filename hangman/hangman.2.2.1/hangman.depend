@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1488701161 source:d:\chauttm\a-teaching\ltnc\2017\sample\lec6-animation\hangman\hangman.2.2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	"draw.h"
+
+1488701850 d:\chauttm\a-teaching\ltnc\2017\sample\lec6-animation\hangman\draw.h
+	<iostream>
+
+1488725565 source:d:\chauttm\a-teaching\ltnc\2017\sample\lec6-animation\hangman.2.2.1\hangman.2.2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	"draw.h"
+
+1488701850 d:\chauttm\a-teaching\ltnc\2017\sample\lec6-animation\hangman.2.2.1\draw.h
+	<iostream>
+
